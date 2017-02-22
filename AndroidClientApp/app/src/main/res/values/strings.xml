@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AndroidClientApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Enter Username</string>
+    <string name="welcome">Welcome</string>
+    <string name="noAcount">No Account?</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="register">REGISTER NOW</string>
+    <string name="registermsg">Registration</string>
+    <string name="title_activity_login">Logged in Activity</string>
+    <string name="password">Enter Password</string>
+    <string name="title_activity_register">Register</string>
+    <string name="imgDesc">Desc</string>
+    <string name="opendrawer">Open</string>
+    <string name="closedrawer">Close</string>
+
+    <string name="statusfragment">Status</string>
+    <string name="insertjobfragment">Insert Jobs To Client</string>
+    <string name="clientresultfragment">Get Results From Client</string>
+    <string name="totalresultsfragment">Total Results</string>
+    <string name="deleteperiodicjobfragment">Delete Periodic Job</string>
+    <string name="turnoffclient">Turn Off Client</string>
+    <string name="table_header_client_id">Client ID</string>
+    <string name="table_header_client_status">Status</string>
+    <string name="table_header_client_accept">Accept</string>
+    <string name="table_header_client_decline">Decline</string>
+    <string name="table_clients_accept_button">accept</string>
+    <string name="table_clients_decline_button">decline</string>
+</resources>
